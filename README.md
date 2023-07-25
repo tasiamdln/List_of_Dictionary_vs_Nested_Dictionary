@@ -1,0 +1,5 @@
+Pengujian Kecepatan Akses, Edit, dan Tambah Data pada List of Dictionary (LoD) vs. Nested Dictionary (NoD)
+
+Dalam dunia pemrograman dan pengelolaan data, pemilihan struktur data yang tepat memiliki peran yang sangat penting. List of Dictionary (LoD) dan Nested Dictionary (NoD) merupakan dua tipe struktur data yang sering digunakan untuk menyimpan dan mengelola data dalam berbagai aplikasi. Kedua struktur data ini menawarkan pendekatan yang berbeda dalam menyimpan informasi, dan masing-masing memiliki kelemahan dan kelebihan yang perlu diperhatikan.
+Pada kesempatan ini, saya akan menjelajahi pengujian kecepatan akses, edit, dan tambah data pada List of Dictionary (LoD) dan Nested Dictionary (NoD) menggunakan Library timeit. Pengujian ini bertujuan untuk memberikan pemahaman lebih mendalam tentang performa keduanya dalam situasi penggunaan yang umum.
+Berikut adalah struktur data yang saya uji berdasarkan program yang saya buat sebelumnya. Program ini dapat diakses pada link berikut : https://github.com/tasiamdln/Purwadhika_JCDS_Capstone_1
